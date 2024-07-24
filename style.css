@@ -45,7 +45,7 @@ img {
   display: flex;
   align-items: center;
   width: 80vw;
-  height: 70vh;
+  height: auto;
   margin-top: 10vh;
   margin-left: auto;
   margin-right: auto;
